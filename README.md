@@ -22,7 +22,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Initialzie the database and Run the app:
+3. Initialize the database and Run the app:
 ```bash
 reflex db init
 reflex db makemigrations
